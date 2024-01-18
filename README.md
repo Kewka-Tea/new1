@@ -1,2 +1,2 @@
 # SnowBoarder2D
-Game2D
+My snowboard game in 2D
